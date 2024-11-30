@@ -1,4 +1,4 @@
-## Multimodal Search and RAG with Weaviate
+## Multimodal Search and RAG with Weaviate + Gemini
 
 Implemennting my learnings from a DeepLearning Course on the topic of Multimodal Search and RAGs with Weaviate:
 https://learn.deeplearning.ai/courses/building-multimodal-search-and-rag/lesson/1/introduction

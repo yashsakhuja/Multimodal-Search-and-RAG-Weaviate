@@ -12,4 +12,4 @@ Here's a Fifa player image search with tags search to find out relevant players 
 
 ## Text Search through Text Vector Space:
 
-<img width="418" alt="Screenshot 2024-11-30 at 20 31 37" src="https://github.com/user-attachments/assets/6c34ec97-34e6-431e-b0e3-43e307558dad">
+<img width="435" alt="Screenshot 2024-11-30 at 20 31 37" src="https://github.com/user-attachments/assets/6c34ec97-34e6-431e-b0e3-43e307558dad">
